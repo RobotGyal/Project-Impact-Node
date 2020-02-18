@@ -1,0 +1,27 @@
+{
+  "name": "project-impact",
+  "version": "1.0.0",
+  "description": "Meteorite Landing Predictor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobotGyal/Project-Impact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobotGyal/Project-Impact/issues"
+  },
+  "homepage": "https://github.com/RobotGyal/Project-Impact#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.7.3",
+    "nodemon": "^2.0.2",
+    "promises": "^0.2.5"
+  }
+}
