@@ -22,6 +22,7 @@
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.7.3",
     "nodemon": "^2.0.2",
+    "pandas": "0.0.3",
     "promises": "^0.2.5"
   }
 }
