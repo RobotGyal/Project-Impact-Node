@@ -37,4 +37,4 @@ Visit the live link in order to visit the site and discover full functionality!
 
 
 ## Credit
-[Meteorite Landings](https://www.kaggle.com/nasa/meteorite-landings)
+[Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
