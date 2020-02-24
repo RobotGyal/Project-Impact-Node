@@ -5,7 +5,7 @@
 [Full Documentation](https://robotgyal.github.io/Project-Impact/#/)
 
 ## Pitch Slide Deck
-[Slides](https://www.canva.com/design/DAD0w0GqH7c/share/preview?token=7lU3cNeTK-qxFxyJz_DlHg&role=EDITOR&utm_content=DAD0w0GqH7c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Slides](https://www.canva.com/design/DAD0w0GqH7c/QKkt-L1AGj_NY054WHK1aQ/view?utm_content=DAD0w0GqH7c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Motivation
 This project was made for the purpose of ...
