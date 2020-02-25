@@ -1,0 +1,2 @@
+
+This API will use data from the Possible Asteroid Impacts with Earth NASA dataset to better portray / illustrate the predictive data from Sentry (a highly automated collision monitoring system). This can be used for seeing high impact times, impact numbers, magintude, etc to better prepare for such astrological events. 
